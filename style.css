@@ -44,3 +44,25 @@ body {
 .faqs-list-style {
     list-style-type: none;
 }
+
+.btn-home {
+    background-color: blue;
+    color: white;
+    padding: 5px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn-home:hover {
+    background-color: rgb(14, 128, 29);
+    color: white;
+}
+.btn-home-main {
+    background-color: blue;
+    color: white;
+    padding: 5px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
