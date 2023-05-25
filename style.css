@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(219, 245, 246);
+}
+.container-head {
+    margin-top: 20px;
+    background-color: rgb(125, 118, 57);
+    border-radius: 5px;
+}
+.nav-text-head {
+    color: white;
+}
+.heroes-box {
+   margin-bottom: 70px;
+}
+.jandg-farm {
+    border: 3px solid rgb(112, 102, 3);
+    border-radius: 5px;
+}
+.h1-font-size {
+    font-size: 40px;
+    text-align: center;
+}
+.span-farm-subtitle {
+    font-size: 30px;
+    text-align: center;
+}
+.feature-icon {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+.about-p {
+    width: 700px;
+    text-align: justify;
+    margin-top: 50px;
+}
+.carousel {
+    width: 800px;
+}
+.faqs-p {
+    width: 600px;
+    text-align: justify;
+}
+.faqs-list-style {
+    list-style-type: none;
+}
